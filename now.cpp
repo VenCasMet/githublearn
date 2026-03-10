@@ -4,5 +4,6 @@ int main(){
     int t=0;
     while(t<10){
         cout<<"hello";
+        t=t+2;
     }
 }
